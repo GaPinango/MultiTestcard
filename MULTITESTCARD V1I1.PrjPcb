@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XBXPSGQS
 
 [Document4]
+DocumentPath=[04] - INPUTS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GANOPRII
+
+[Document5]
 DocumentPath=[XX] - DOC REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNJFQOTL
 
-[Document5]
+[Document6]
 DocumentPath=MULTITESTCARD V1I1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=MULTITESTCARD V1I1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXFYXYJI
 
-[Document7]
+[Document8]
 DocumentPath=MULTITESTCARD V1I1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNADDJDL
 
-[Document8]
+[Document9]
 DocumentPath=MULTITESTCARD V1I1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
