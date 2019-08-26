@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GANOPRII
 
 [Document5]
-DocumentPath=[05] - LCD.SchDoc
+DocumentPath=[05] - UART-USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
