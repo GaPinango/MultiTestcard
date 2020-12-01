@@ -1,0 +1,10 @@
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Variant [[No Variations]] of Project [MULTITESTCARD V1I1.PrjPcb]
+   Generated File[[04] - INPUTS.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:21:46 PM On 13/8/2020
