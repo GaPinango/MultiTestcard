@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Gabriel\!Gabriel Importante\GABRIEL Directory\Design Files\Personal\MultiTestcard\V1I1\MULTITESTCARD V1I1.PcbDoc
-Date     : 01/12/2020
-Time     : 10:18:43 AM
+Date     : 02/12/2020
+Time     : 4:20:49 PM
 
 Processing Rule : Clearance Constraint (Gap=0.17mm) (InComponent('PRG1')),(All)
 Rule Violations :0
@@ -9,10 +9,19 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0.2mm) (HasFootprint('64-LQFP') or HasFootprint('8-TSSOP')),(OnLayer('Top Layer'))
 Rule Violations :0
 
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InPolygon),(All)
+Rule Violations :0
+
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.8mm) (InNet('VGND','+3V3','+5V0','+5V'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.254mm) (Max=0.5mm) (Preferred=0.3mm) (All)
@@ -48,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
