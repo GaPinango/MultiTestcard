@@ -1,0 +1,207 @@
+Board Information Report
+Filename     : C:\Users\Gabriel\Documents\Gabriel\!Gabriel Importante\GABRIEL Directory\Design Files\PERSONAL\MultiTestcard\MULTITESTCARD V1I1.PcbDoc
+Date         : 6/12/2020
+Time         : 9:07:30 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 57.404mmx56.515mm
+    Components on board, 59
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 178
+    Connections routed, 178
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    L1, 0, 112, 0, 330, 3, 0, 3, 0
+    L2 (GND), 0, 0, 0, 0, 0, 0, 1, 0
+    L3, 0, 0, 0, 226, 0, 0, 13, 0
+    L4, 0, 80, 0, 343, 3, 0, 13, 0
+    Mechanical 1, 0, 0, 0, 3, 0, 0, 0, 72
+    Dimentioning Notes, 0, 0, 0, 19, 2, 0, 0, 0
+    Mechanical 5, 0, 0, 0, 4, 0, 0, 0, 0
+    Mechanical 7, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 128, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 178, 0, 0, 0, 0
+    Mechanical 31, 1, 0, 0, 4, 1, 0, 0, 0
+    Top Overlay, 2, 0, 0, 158, 127, 0, 10, 0
+    Bottom Overlay, 4, 0, 0, 105, 58, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 3, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 3, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 95, 101, 0, 0, 0, 1, 0
+count : 21
+
+Drill Pairs, Vias
+    L1 - L4, 101
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+    2.4mm, 2, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 192, 0
+    0.254mm, 0, 101
+    0.7mm, 8, 0
+    0.8mm, 6, 0
+    0.8mm, 40, 0
+    0.9144mm, 24, 0
+    1.2mm, 8, 0
+    3.5mm, 4, 0
+count : 8
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    39.37mil / 137.795mil, 1
+    39.37mil / 118.11mil, 2
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -0.3mm, 2
+    0.254mm, 101
+    0.4mm, 8
+    0.55mm, 6
+    0.5856mm, 24
+    0.724mm, 16
+    0.8mm, 24
+    1mm, 1
+    1mm, 1
+    1.2mm, 8
+    2.5mm, 4
+    3mm, 1
+count : 12
+
+Mid Layer Annular Ring Size, Count
+    -0.3mm, 2
+    0.254mm, 101
+    0.4mm, 8
+    0.55mm, 6
+    0.5856mm, 24
+    0.724mm, 16
+    0.8mm, 24
+    1mm, 1
+    1mm, 1
+    1.2mm, 8
+    2.5mm, 4
+    3mm, 1
+count : 12
+
+Bottom Layer Annular Ring Size, Count
+    -0.3mm, 2
+    0.254mm, 101
+    0.4mm, 8
+    0.55mm, 6
+    0.5856mm, 24
+    0.724mm, 16
+    0.8mm, 24
+    1mm, 1
+    1mm, 1
+    1.2mm, 8
+    2.5mm, 4
+    3mm, 1
+count : 12
+
+Pad Solder Mask, Count
+    0.05mm, 88
+    0.1016mm, 199
+count : 2
+
+Pad Paste Mask, Count
+    0mm, 287
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 287
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 287
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 287
+count : 1
+
+Pad Relief Entries, Count
+    4, 287
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 101
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 101
+count : 1
+
+Track Width, Count
+    0.0508mm, 11
+    0.1mm, 4
+    0.2mm, 548
+    0.254mm, 44
+    0.3mm, 587
+    0.5mm, 85
+    0.508mm, 4
+    0.8mm, 132
+    1mm, 84
+    2.016mm, 3
+count : 10
+
+Arc Line Width, Count
+    0.2mm, 1
+    0.25mm, 5
+    0.3mm, 1
+count : 3
+
+Arc Radius, Count
+    0.125mm, 5
+    0.15mm, 1
+    0.5167mm, 1
+count : 3
+
+Arc Degrees, Count
+    180, 1
+    360, 6
+count : 2
+
+Text Height, Count
+    0.5mm, 59
+    0.6mm, 12
+    0.7mm, 1
+    1.016mm, 1
+    1.2mm, 66
+    1.524mm, 61
+count : 6
+
+Text Width, Count
+    0.127mm, 132
+    0.1524mm, 2
+    0.1778mm, 1
+    0.22mm, 6
+    0.254mm, 59
+count : 5
+
+Net Track Width, Count
+    0.254mm, 82
+count : 1
+
+Net Via Size, Count
+    0.508mm, 82
+count : 1
